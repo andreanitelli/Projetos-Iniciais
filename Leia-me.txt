@@ -1,1 +1,3 @@
-Olá, meu nom é André. Prazer em conhece-lo
+Olá, meu nom é André. Prazer em conhece-lo!
+
+Busco uma oportunidade de estágio, trabalho júnior ou assistente na área de desenvolvimento Back-end ou Data Science, onde eu possa aplicar meus conhecimentos em análise de sistemas e contribuir para o crescimento da empresa. Atualmente, estou cursando Análise de e Desenvolvimento de Sistemas pelo SENAC e já sou bacharel em Engenharia Civil pela EEP, com mestrado em Engenharia de Transportes pela USP. Tenho experiência em rotinas administrativas, gestão de planilhas e KPIs, além de conhecimentos básicos crição de dashboard através do Power BI e programação Python, SQL, C# e Excell avançado. Falo português nativo, inglês avançado, espanhl intermediário e frances básico.
